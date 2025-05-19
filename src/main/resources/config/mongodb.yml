@@ -1,7 +1,0 @@
-# /config/mongodb.yml
-spring:
-  data:
-    mongodb:
-      uri: mongodb://root:secret@localhost:27017/blo-sales-dev?authSource=admin
-      # Considera usar variables de entorno para credenciales en producción:
-      # uri: mongodb://${MONGO_USER:sa}:${MONGO_PASS:sa}@${MONGO_HOST:localhost}:27017/${MONGO_DB:blo-sales-dev}?authSource=admin
