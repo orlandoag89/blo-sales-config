@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.blo.saes</groupId>
 	<artifactId>blo-sales-config</artifactId>
-	<version>1.0.0-RELEASE</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>blo-sales-config</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
